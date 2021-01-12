@@ -75,7 +75,7 @@ class CommentForm extends Component {
                         </div>
                     </ModalBody>
                 </Modal>
-            </>
+            </> 
         )
     }
 
