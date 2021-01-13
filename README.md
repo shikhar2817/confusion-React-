@@ -1,5 +1,9 @@
 # Screenshots
-<img src="https://github.com/shikhar2817/confusion-React-/blob/main/public/img_screenshots/one.png" width="50%">
+<img src="https://github.com/shikhar2817/confusion-React-/blob/main/public/img_screenshots/one.png">
+<img src="https://github.com/shikhar2817/confusion-React-/blob/main/public/img_screenshots/two.png">
+<img src="https://github.com/shikhar2817/confusion-React-/blob/main/public/img_screenshots/three.png">
+<img src="https://github.com/shikhar2817/confusion-React-/blob/main/public/img_screenshots/four.png">
+<img src="https://github.com/shikhar2817/confusion-React-/blob/main/public/img_screenshots/five.png">
 
 # Getting Started with Create React App
 
